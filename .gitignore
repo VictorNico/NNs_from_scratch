@@ -26,6 +26,11 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*.rar
+*/*.rar
+*.zip
+*/*.zip
+*.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -127,3 +132,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+simple-mnist-nn-from-scratch-numpy-no-tf-keras.ipynb
+full-neural-net-only-math-numpy.ipynb
+Titanic.ipynb
