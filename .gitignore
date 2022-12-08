@@ -135,3 +135,4 @@ dmypy.json
 simple-mnist-nn-from-scratch-numpy-no-tf-keras.ipynb
 full-neural-net-only-math-numpy.ipynb
 Titanic.ipynb
+*.pkl
